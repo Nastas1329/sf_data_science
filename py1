@@ -1,4 +1,6 @@
-sudo apt-get -y install git
+
+import numpy as np 
+
 
 
 
